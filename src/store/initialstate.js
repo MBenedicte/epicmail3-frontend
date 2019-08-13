@@ -1,6 +1,6 @@
 module.exports = {
   user: {
-    profile: {},
+    profile: { user: {} },
     isAuth: false
   }
 };
