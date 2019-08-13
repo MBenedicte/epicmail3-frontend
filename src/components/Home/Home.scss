@@ -19,7 +19,7 @@ body {
 
 .container {
   width: 80%;
-  height: 580px;
+  height: 80%;
   border-radius: 5px;
   margin: 5% auto;
   background: var(--background-color);
@@ -76,7 +76,9 @@ li a:hover {
   border-bottom: var(--third-color) 3px solid;
 }
 /* section body section */
-
+.body-section {
+  background: #000000;
+}
 .body-box {
   float: left;
   width: 50%;
